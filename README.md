@@ -1,3 +1,7 @@
+![image](https://github.com/karthi4290/ReactLifeCycle/assets/77773368/2e29f897-690e-4d4b-b91d-c1affcf35b7f)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
